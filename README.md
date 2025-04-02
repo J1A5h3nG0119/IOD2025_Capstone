@@ -15,3 +15,6 @@ The following items are saved in the link provided below:-
 
 Link to dataset (after-preprocessing):
 https://teprivate9-my.sharepoint.com/:f:/g/personal/jsy0517_teprivate9_onmicrosoft_com/Eo8MhBFZU6VBqz58BozRDVQB-MIsFXTVjMg8oYeirhcXgw?e=pXMpcy 
+
+# Streamlit App
+The best model was deployed on Streamlit Cloud at https://iod2025capstone-xkywy9eygij2upanqbmqhn.streamlit.app/ 
